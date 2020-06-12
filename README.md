@@ -1,11 +1,11 @@
 # Welcome to i2b2-cdi
 
 
-###*C*linical *D*ata *I*nfrastructure
+## Clinical Data Infrastructure
 
 or
 
-###*C*oncept *D*erivation *I*nfrastructure
+## Concept Derivation Infrastructure
 
 Goals:
 
