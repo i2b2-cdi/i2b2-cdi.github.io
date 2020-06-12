@@ -1,13 +1,7 @@
-# Welcome to i2b2-cdi
+## Welcome to i2b2-cdi: Clinical Data Infrastructure
+ also called Concept Derivation Infrastructure
 
-
-## Clinical Data Infrastructure
-
-or
-
-## Concept Derivation Infrastructure
-
-Goals:
+## Goals:
 
 -[Easy install using docker containers](https://github.com/i2b2-cdi/i2b2-qs)
 
