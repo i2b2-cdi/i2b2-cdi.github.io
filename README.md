@@ -9,7 +9,7 @@ or
 
 Goals:
 
--[Easy install](i2b2-docker)
+-[Easy install using docker containers](https://github.com/i2b2-cdi/i2b2-qs)
 
 -Simplified Data model
 
@@ -23,4 +23,5 @@ Goals:
 
 -Machine learning
 
-
+## Receive email announcements
+[subscribe to mailing list](http://groups.google.com/group/i2b2-cdi/subscribe)
