@@ -7,7 +7,7 @@
 
 -Simplified Data model
 
--[Scalable](https://i2b2-cdi.github.io/azure-videos.html)
+-[Scalable](azure-videos.html)
 
 -Near real-time ETL (Restful API and batch), SMART-on-FHIR
 
