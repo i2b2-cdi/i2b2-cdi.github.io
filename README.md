@@ -3,7 +3,7 @@
 
 ## Goals:
 
--[Easy install using docker containers](https://github.com/i2b2-cdi/i2b2-qs)
+-[Easy install using docker containers](https://github.com/i2b2-cdi/i2b2-docker)
 
 -Simplified Data model
 
